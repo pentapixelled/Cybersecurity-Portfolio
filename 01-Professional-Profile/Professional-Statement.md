@@ -1,1 +1,1 @@
-# Professional Statement
+I am a proactive cybersecurity professional transitioning into threat defense. Leveraging hands-on experience in network management, compliance, and strong analytical and communication skills, I am dedicated to protecting organizational assets against internal and external threats to build resilient digital environments.
